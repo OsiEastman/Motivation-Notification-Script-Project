@@ -1,4 +1,4 @@
-# Motivation-Notification-Script-Project
+# Motification-Script-Project
 The purpose of this script is to have notifications pop up in the morning while we work to motivate us and bring positive energy in the environment.
 ## in your kernel type in bash firstscrptproject.sh
 run script "bash firstscriptproject.sh" in same directory on linix
